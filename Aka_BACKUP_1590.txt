@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 commit different line
 =======
+oh hi
 different line
 >>>>>>> 4f7fdf6447b62cbe47ab55cbd05d1c0fbca53312
